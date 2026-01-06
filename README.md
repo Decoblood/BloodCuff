@@ -39,4 +39,4 @@ Boss bar shows remaining time
 
 ---
 
-**Developed by Blood Development Team** ❤️</content>
+**Developed by Decoblood** ❤️</content>
